@@ -120,8 +120,20 @@
             "decimals":18,
             "name":"HuobiToken",
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
-        }
+        },
+        {
+   
+           "chainId": 1, 
+           "address": "TRkSDmLPUE1vtJp1ewLk4n5fM1YvsZk1yq", 
+           "name": "TETRA", 
+           "symbol": "TTR", 
+           "decimals": 8, 
+           "logoURI": "https://coin.top/production/upload/logo/TRkSDmLPUE1vtJp1ewLk4n5fM1YvsZk1yq.png"
+       }
+       
+  
     ],
+        
     "logoURI":"https://justswap.io/favicon.ico",
     "version":{
         "patch":1,
